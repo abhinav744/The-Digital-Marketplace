@@ -10,7 +10,7 @@ Welcome to our Full Stack E-Commerce Website project! This is a comprehensive we
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 - User authentication and authorization system.
