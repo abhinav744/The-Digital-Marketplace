@@ -30,7 +30,7 @@ You need to have Node.js and npm installed on your machine, as well as MongoDB.
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/fullstack-ecommerce.git
+   git clone https://github.com/abhinav744/E-commerce-website.git
 Navigate to the project directory:
 cd fullstack-ecommerce
 
