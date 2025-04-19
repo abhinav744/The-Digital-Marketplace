@@ -12,7 +12,7 @@ The Digital Marketplace is an e-commerce platform that enables users to browse, 
 
 🛒 Shopping cart & checkout system
 
-💳 Payment integration (if implemented)
+💳 Payment integration
 
 📦 Order tracking & history
 
@@ -28,7 +28,7 @@ Database: MongoDB / PostgreSQL
 
 Authentication: JWT / Firebase Auth
 
-Payment Gateway: Stripe / Razorpay (if implemented)
+Payment Gateway: Stripe / Razorpay
 
 ## 📁 Project Structure
 
